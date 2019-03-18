@@ -24,7 +24,6 @@ This is a zip file of all the aimware luas I have created to date and will be up
 ////////////////////////////////////////// 
 
 - Name Changer Lua
-- Dsync Lua
 - Tap Bot Lua (Similar to Fanta Aim)
                                                                                                                                           
                                                                                                                                                                            
